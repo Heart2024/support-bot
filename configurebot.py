@@ -1,6 +1,6 @@
 cfg = {
-	'token': 'С‚РѕРєРµРЅ',
-	'name': 'РЅР°Р·РІР°РЅРёРµ Р±РѕС‚Р°',
+	'token': '6751130184:AAGIOtz21PJjPBSLNT16XQFbkajioCifUtg',
+	'name': 'Технічна підтримка Heart Of Ukraine°',
 	'dev_id': 0,
 	'teh_chat_id': -0,
 	'db_url': 'СЃСЃС‹Р»РєР°',
